@@ -1,0 +1,5 @@
+Resolusi tahun 2023
+- Menguasai bahasa pemograman HTML
+- Menguasai CSS dasar
+- Menguasai Javascript dasar dan lanjutan
+- Menguasai Framework CSS
